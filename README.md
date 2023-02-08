@@ -21,7 +21,15 @@ ________________________________________________________________________________
 6. Create, populate, and dynamically filter a table using JavaScript and HTML
 ______________________________________________________________________________________________________________________________________________________________________
 
+# Results
 
+The web page is displayed with the different filters worked, where any person or user who wants to use it can perform the search filters with the required criteria, example:
 
+Date
+City
+Country
+State
+
+And all those places where UFO sightings have been detected.
 
 ![image](https://github.com/RodrigoCR25/UFOs-sightings/blob/main/Imagen%201.png)
