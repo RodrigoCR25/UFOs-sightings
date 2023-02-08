@@ -9,8 +9,7 @@ HTML
 Bootstrap
 
 The purpose of the project was to create tables for the organization of the UFO data which are stored in a matrix. This table will have the function of filtering data according to the required criteria.
-
-#______________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________
 
 # I Learn
 
@@ -20,8 +19,7 @@ The purpose of the project was to create tables for the organization of the UFO 
 4. Convert JavaScript functions to arrow functions.
 5. Build and deploy forEach (JavaScript for loop).
 6. Create, populate, and dynamically filter a table using JavaScript and HTML
-
-#_______________________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________________
 
 
 
